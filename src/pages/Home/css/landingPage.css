@@ -1,0 +1,14 @@
+.symbol:hover {
+    text-shadow: 2px 2px 5px red;
+    box-shadow: 0 3px 10px #4e1c51;
+  }
+  .landing-page{
+    background-color: #1c1c1f;
+opacity: 0.8;
+background-image: radial-gradient(#4e1c51 0.70px, #ffffff 0.70px);
+background-size: 10px 10px;
+  }
+
+  .website-section{
+ 
+  }
